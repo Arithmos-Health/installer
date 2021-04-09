@@ -3,7 +3,7 @@ image: Visual Studio 2019
 environment:
   global:
     # git repo from which to pull orange3 sources
-    REPO: https://github.com/biolab/orange3.git
+    REPO: https://github.com/Arithmos-Health/arithmos.git
     # Branch/ref from which to pull
     BUILD_BRANCH: master
     # Commit ref/tag to checkout
